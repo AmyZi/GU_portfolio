@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GU_portfolio.git/static/css/main.340f2c96.css",
+    "main.js": "/GU_portfolio.git/static/js/main.bd294b1c.js",
+    "static/js/453.543ca9ba.chunk.js": "/GU_portfolio.git/static/js/453.543ca9ba.chunk.js",
+    "static/media/PurplePort.jpg": "/GU_portfolio.git/static/media/PurplePort.11516163a8efe159ad3f.jpg",
+    "static/media/meInClass.png": "/GU_portfolio.git/static/media/meInClass.06681d02a85ac6e2b357.png",
+    "index.html": "/GU_portfolio.git/index.html",
+    "main.340f2c96.css.map": "/GU_portfolio.git/static/css/main.340f2c96.css.map",
+    "main.bd294b1c.js.map": "/GU_portfolio.git/static/js/main.bd294b1c.js.map",
+    "453.543ca9ba.chunk.js.map": "/GU_portfolio.git/static/js/453.543ca9ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340f2c96.css",
+    "static/js/main.bd294b1c.js"
+  ]
+}
