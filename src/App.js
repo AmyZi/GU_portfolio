@@ -9,7 +9,7 @@ import AcademicDashboard from './pages/StudyPage';
 
 const App = () => {
   return (
-    <HashRouter>
+    <Router>
       <Header />
       <Routes>
         <Route path="/" element={<WelcomePage />} />
@@ -17,7 +17,7 @@ const App = () => {
         <Route path="/study" element={<AcademicDashboard />} />
       </Routes>
       <Footer />
-    </HashRouter>
+    </Router>
   );
 };
 export default App;

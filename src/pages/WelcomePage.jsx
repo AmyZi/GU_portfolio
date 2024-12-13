@@ -19,7 +19,7 @@ const WelcomePage = () => {
             <Github size={20} strokeWidth={1.5} />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://linkedin.com/in/amina-idris-at-lkin"
             target="_blank"
             rel="noopener noreferrer"
             className="text-neutral-700 hover:text-neutral-900 transform hover:-translate-y-1 transition-all duration-300"
