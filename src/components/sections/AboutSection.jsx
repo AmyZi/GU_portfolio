@@ -12,7 +12,7 @@ const AboutSection = ({ onNavigateToSkillsSection }) => {
           <div className="text-center mb-12">
             <div className="flex items-center justify-center space-x-4">
               <div className="w-16 h-[1px] bg-primary-200"></div>
-              <h1 className="text-5xl font-bold text-primary-800">Who am I?</h1>
+              <h1 className="text-5xl font-bold text-neutral-800">Who am I?</h1>
               <div className="w-16 h-[1px] bg-primary-200"></div>
             </div>
           </div>
